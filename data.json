@@ -1,0 +1,30 @@
+{
+	"weather-detail": [{
+			"name": "tamilnadu",
+			"weather": {
+				"streetAddress": "Plot-6, Mohan Nagar",
+				"city": "Ghaziabad",
+				"state": "UP",
+				"postalCode": "201007"
+			}
+		},
+		{
+			"name": "kerala",
+			"weather": {
+				"streetAddress": "Plot-6, Mohan Nagar",
+				"city": "Ghaziabad",
+				"state": "UP",
+				"postalCode": "201007"
+			}
+		},
+		{
+			"name": "karnataka",
+			"weather": {
+				"streetAddress": "Plot-6, Mohan Nagar",
+				"city": "Ghaziabad",
+				"state": "UP",
+				"postalCode": "201007"
+			}
+		}
+	]
+}
